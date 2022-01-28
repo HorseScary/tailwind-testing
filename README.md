@@ -1,2 +1,3 @@
-# tailwind-testing
-An attempt to learn tailwindcss 
+# Tailwind Testing 
+An attempt to learn [tailwindcss](https://tailwindcss.com/)
+
